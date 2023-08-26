@@ -1,4 +1,4 @@
 # LearningGit
 This is my first project
 <br />
-Author-Gyanendra Jha
+Author-Gyanendra Jha (Trainer)
